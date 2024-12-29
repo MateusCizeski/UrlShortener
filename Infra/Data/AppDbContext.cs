@@ -1,4 +1,4 @@
-﻿namespace UrlShortener.Data
+﻿namespace Infra.Data
 {
     public class AppDbContext
     {
